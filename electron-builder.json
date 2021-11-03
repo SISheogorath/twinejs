@@ -4,7 +4,7 @@
 	"linux": {
 		"target": {
 			"target": "zip",
-			"arch": ["ia32", "x64"]
+			"arch": ["ia32", "x64", "arm64"]
 		}
 	},
 	"mac": {
